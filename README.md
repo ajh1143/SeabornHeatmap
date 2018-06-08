@@ -8,8 +8,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 ```
 
-I've modularized the previous data call, which will give us a Pandas DataFrame of the online data.
-
 ## Grab All The Data
 
 ```Python3
