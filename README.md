@@ -1,4 +1,4 @@
-# SeabornHeatmap
+# Seaborn Heatmap
 Heatmap example generated with Seaborn
 
 ## Imports
