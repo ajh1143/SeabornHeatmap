@@ -44,7 +44,7 @@ def heatMap(df):
 ```
 
 ## Visualize It
-<img src="/Images/Abalone/heatmap.png" class="inline"/><br>
+<img src="https://github.com/ajh1143/ajh1143.github.io/blob/master/Images/Abalone/heatmap.png" class="inline"/><br>
 
 Awesome! However, we can do better. The diagonal plane mirrors itself on either side, with both redundant results AND self to self correlations, which we should drop.
 
