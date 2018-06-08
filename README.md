@@ -1,5 +1,5 @@
 # Seaborn Heatmap
-Heatmap example generated with Seaborn
+Create Heatmaps with Seaborn
 
 ## Imports
 ```Python3
