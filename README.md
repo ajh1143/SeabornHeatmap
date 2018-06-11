@@ -1,6 +1,8 @@
 # Seaborn Heatmap
 Create Heatmaps with Seaborn
 
+Supply a website source CSV file, a list of column names, and generate a correlation heat map of your features.
+
 ## Imports
 ```Python3
 import pandas as pd
