@@ -91,7 +91,7 @@ def heatMap(df, mirror):
 ```
 <img src="https://github.com/ajh1143/ajh1143.github.io/blob/master/Images/Abalone/halfheat.png" class="inline"/><br>
 
-Much better! We've dropped a substantial amount of redundant information that only serveed to act as distractive noise. Now we can focus on the relationships with ease. 
+Much better! We've dropped a substantial amount of redundant information that only served to act as distractive noise. Now we can focus on the relationships with ease. 
 
 ## Code Summary
 
