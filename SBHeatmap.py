@@ -7,7 +7,7 @@ def getDF(data_url, columns):
     data = pd.read_csv(data_url, names=columns)
     return data
     
-    def heatMap(df):
+def heatMap(df):
     #Create Correlation df
     corr = df.corr()
     #Plot figsize
@@ -23,7 +23,7 @@ def getDF(data_url, columns):
     #show plot
     plt.show()
     
-    def halfHeatMap(df, mirror):
+def halfHeatMap(df, mirror):
 
    # Create Correlation df
    corr = df.corr()
